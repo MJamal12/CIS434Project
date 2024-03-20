@@ -12,3 +12,6 @@ public class Calcualtion {
         return a+b;
     }
 }
+public void printGreeting(){
+    System.out.println("Hello Max");
+}
