@@ -1,4 +1,4 @@
-Public class Yarosh{
+public class Yarosh{
   
   int multiplication(int a, int b){
   if (a != b){
