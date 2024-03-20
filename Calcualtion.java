@@ -12,3 +12,6 @@ public class Calcualtion {
         return a+b;
     }
 }
+public void print(){
+System.out.println("Hello Manikdeep Kaur LNU");
+}
