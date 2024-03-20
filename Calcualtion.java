@@ -13,5 +13,5 @@ public class Calcualtion {
     }
 }
 public void printGreeting(){
-    System.out.println("Hello Max");
+    System.out.println("Hello from Max");
 }
