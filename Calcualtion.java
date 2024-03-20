@@ -14,7 +14,7 @@ public class Calcualtion {
 }
 public void printGreeting(){
 
-    System.out.println("Hello from Malik");
+    System.out.println("Hello from Malik Jamal");
 
     System.out.println("Hello from Maksym Yarosh");
 
