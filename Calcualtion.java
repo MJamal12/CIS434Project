@@ -7,4 +7,8 @@ public class Calcualtion {
     public int divide(int a, int b) throws ArithmeticException{
         return a/b;
     }
+
+    int addition(int a, int b){
+        return a+b;
+    }
 }
